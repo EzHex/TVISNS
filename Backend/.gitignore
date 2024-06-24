@@ -1,0 +1,9 @@
+.env
+data
+dist
+node_modules
+.idea
+.idea/.gitignore
+.idea/express_api.iml
+coverage
+public
